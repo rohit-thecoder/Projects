@@ -1,3 +1,6 @@
+// Link to Tic-Tak-Toe Game
+// file:///C:/Users/rkroh/OneDrive/Documents/Document/Java%20Script/tttp6.html
+
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector(".resetBtn");
 let newGameBtn = document.querySelector("#newbtn");
